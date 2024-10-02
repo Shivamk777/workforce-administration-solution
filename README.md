@@ -7,7 +7,7 @@ system for managing employee data, number of projects an employee is working
 on, tracking employee performance, and keeping record for the assets which they 
 are assigned to. 
 
-## Real-Time Salesforce Project
+- Real-Time Salesforce Project
 - Data Modelling
 - Creating an Application
 - User Interface Customization
